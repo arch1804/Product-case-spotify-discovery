@@ -1,0 +1,10 @@
+User Flow:
+
+1. User sees a song with a "Discovery Download" badge
+2. User taps Download
+3. Song is available offline for 7 days
+4. After listening, user is prompted to:
+   - Follow artist
+   - Save song
+   - Add to playlist
+   - Get Spotify Premium Plan to enjoy more downloads/keep accessing the song offline
