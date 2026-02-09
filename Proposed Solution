@@ -5,6 +5,10 @@ These downloads expire after a fixed period (e.g., 7 days).
 
 The feature focuses only on artists below a popularity threshold to prioritize independent creators (e.g., <50,000 monthly listeners)
 
+Eligibility for Discovery Downloads is determined by a popularity threshold to ensure the feature prioritizes emerging artists without disrupting existing premium user behavior.
+This feature is designed to complement, not replace, premium offline listening.
+
+
 Why this works:
 - Reduces commitment required to try new artists
 - Enables offline sampling
