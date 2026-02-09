@@ -9,6 +9,12 @@ Trade-offs:
 - A song can be downloaded for only 7 continuous days per user
 - Feature restricted to emerging artists only
 
+Out of Scope:
+- Permanent offline access for free users
+- Revenue or licensing model changes
+- Full catalog downloads
+
+
 Definition:
 Constraints: Fixed limitations or conditions that restrict how a solution can be designed or implemented.
 Trade-offs: Deliberate decisions where improving one aspect of a solution requires compromising another, in order to best meet business and technical goals.
