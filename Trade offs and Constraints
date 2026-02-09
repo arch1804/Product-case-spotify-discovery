@@ -1,0 +1,14 @@
+Constraints:
+- Licensing limitations
+- Storage costs
+- Must not reduce premium value
+
+Trade-offs:
+- Limit number of discovery downloads per user
+- Time-bound access
+- A song can be downloaded for only 7 continuous days per user
+- Feature restricted to emerging artists only
+
+Definition:
+Constraints: Fixed limitations or conditions that restrict how a solution can be designed or implemented.
+Trade-offs: Deliberate decisions where improving one aspect of a solution requires compromising another, in order to best meet business and technical goals.
